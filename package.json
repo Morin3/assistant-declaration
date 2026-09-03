@@ -100,7 +100,7 @@
     "@faire/mjml-react": "^3.5.0",
     "@fontsource/dancing-script": "^5.1.1",
     "@fragaria/address-formatter": "^6.4.0",
-    "@gouvfr/dsfr": "1.12.1",
+    "@gouvfr/dsfr": "1.15.2",
     "@hey-api/client-fetch": "^0.7.2",
     "@hookform/resolvers": "^5.2.2",
     "@inquirer/prompts": "^3.3.2",
