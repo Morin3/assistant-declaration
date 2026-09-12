@@ -173,7 +173,7 @@
     "type-route": "^1.0.1",
     "usehooks-ts": "^3.1.1",
     "uuid": "^11.0.3",
-    "xmlbuilder2": "^3.1.1",
+    "xmlbuilder2": "^4.0.3",
     "zod": "^4.1.12"
   },
   "devDependencies": {
